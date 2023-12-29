@@ -50,10 +50,10 @@ Laptops, Desktops and Tablet PCs
 
 ## Getting Started
 ```sh
-  git clone https://github.com/soumyag123/Vaccinater.git
+  git clone https://github.com/soumyag123/VaxNotifier.git
 ```
 ```sh
-  cd Vaccinater
+  cd VaxNotifier
 ```
 
 ## Before Installation
